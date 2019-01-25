@@ -1,3 +1,8 @@
 #Site settings
 titile: Rajendra Kumar
 name: rajendra2009
+# work experience is required
+roles:
+	-title:Senior Software Trainer
+	start:2011
+    end:ongoing
